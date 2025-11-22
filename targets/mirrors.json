@@ -1,0 +1,6 @@
+{
+  "mirrors": [
+    "git@github.com:menominee-nsn/{repo_name}.git",
+    "https://github.com/menominee-nsn/{repo_name}"
+  ]
+}
